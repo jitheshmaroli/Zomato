@@ -43,7 +43,7 @@ header{
     margin-top: 7vh;
     align-items: center;
 }
-.nav li,h4:hover{
+.nav li , h4:hover{
     cursor: pointer;
 }
 
