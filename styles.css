@@ -43,6 +43,10 @@ header{
     margin-top: 7vh;
     align-items: center;
 }
+.nav li,h4:hover{
+    cursor: pointer;
+}
+
 .logo{
     width: 20vw;
 }
